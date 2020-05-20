@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\GoogleAuthenticator\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\GoogleAuthenticator\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\GoogleAuthenticator\BLL\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\GoogleAuthenticator\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\GoogleAuthenticator\BLL\obj\Debug\BLL.pdb

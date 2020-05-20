@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\bin\Debug\MainFrom.exe
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\bin\Debug\MainFrom.pdb
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\obj\Debug\MainFrom.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\obj\Debug\MainFrom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\obj\Debug\MainFrom.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\obj\Debug\MainFrom.exe
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\obj\Debug\MainFrom.pdb
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\obj\Debug\MainFrom.MainFrom.resources
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\GoogleAuthenticator\MainFrom\bin\Debug\BLL.pdb
